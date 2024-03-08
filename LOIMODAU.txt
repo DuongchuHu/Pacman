@@ -1,0 +1,2 @@
+Project duoc lap vao ngay 09/03/2023 nham lap trinh game Pacman bang thu vien SDL2.0 ngon ngu C++ de du thi bai tap lon Lap trinh nang cao UET.
+Qua trinh thuc hien game se duoc cap nhat tai day.
